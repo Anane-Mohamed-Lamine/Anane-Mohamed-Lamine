@@ -1,72 +1,32 @@
-# Hi, I'm Lamine Anane 👋
+# 💫 About Me:
+I'm a Computer Science student and aspiring Full-Stack Developer with a passion for building practical software solutions.<br><br>I enjoy exploring new technologies, solving problems, and turning ideas into real-world applications.<br><br>Currently, I'm focusing on Java, Spring Boot, and modern web development while continuously improving my software engineering skills.
 
-### 💻 Computer Science Student | Aspiring Full-Stack Developer
+## 🌐 Socials:
 
-I'm a Computer Science student passionate about software development, problem-solving, and building practical applications.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lamine_it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamine-anane-57449a38b/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lamine1635an@gmail.com)
 
-I enjoy turning ideas into real-world solutions and continuously expanding my technical skills.
+# 💻 Tech Stack:
 
-🌱 **Currently Learning:** Java, Spring Boot & Backend Development.
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-🎯 **My Goal:** Becoming a skilled Full-Stack Developer and building impactful software projects.
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lamine_it)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lamine1635an@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat&logo=apache&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 [Moh-Shop](https://github.com/Anane-Mohamed-Lamine/moh-shop)
-
-A modern e-commerce frontend built with React and Tailwind CSS.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Anane-Mohamed-Lamine&theme=dark&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anane-Mohamed-Lamine&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Anane-Mohamed-Lamine&theme=dark&hide_border=true&layout=compact)
-
----
-
-*Building, Learning, and Improving — One Project at a Time.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
